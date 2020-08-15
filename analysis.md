@@ -17,36 +17,46 @@ There are various types of scheduling which are FCFS, Round-Robin, SJF, SRTF, or
 
 Inputs for the project:
 
-Course code: CSC 3102
-Duration: 2
-Priority: 3
+Course code: CSC 3102 <br>
+Duration: 2 <br>
+Priority: 3 <br>
 Arrival Time: 1
 
-Course Code: INFO 3501
-Duration: 1
-Priority: 4
+Course Code: INFO 3501<br>
+Duration: 1 <br>
+Priority: 4 <br>
 Arrival Time: 2
 
-Course Code: CSC 3402
-Duration: 3
-Priority: 1
+Course Code: CSC 3402 <br>
+Duration: 3 <br>
+Priority: 1 <br>
 Arrival Time: 3
 
-Course Code: INFO 3305
-Duration: 4
-Priority: 2
+Course Code: INFO 3305 <br>
+Duration: 4 <br>
+Priority: 2 <br>
 Arrival Time: 4
-
 
 ## FCFS
 
-Give an analysis of your algo and compare it with the other two
+Output
+
+Average waiting time = 3.25
+Average turn around time = 5.75
 
 ## SJF
 
-Give an analysis of your algo and compare it with the other two
+Output
+
+Average waiting time = 1.75
+Average turn around time = 5.25
 
 ## Priority Scheduling
 
-Give an analysis of your algo and compare it with the other two
+Output
+
+Average waiting time = 3.25
+Average turn around time = 5.75
+
+# Conclusion
 
